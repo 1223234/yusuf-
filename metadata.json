@@ -1,0 +1,6 @@
+{
+  "name": "VANDEN Horlogerie | Премиальный бренд часов",
+  "description": "Полная концепция и бренд-платформа премиального часового дома VANDEN: философия, дизайн коллекции, фирменный стиль, упаковка и стратегия запуска.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
